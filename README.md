@@ -1,5 +1,6 @@
 🇺🇸 Bot version - 0.0.2 - **a huge update.**
-> I think everyone has been waiting for this and we are releasing a huge update of the partner bot.
+*I think everyone has been waiting for this and we are releasing a huge update of the partner bot.*
+
 • **Premium feature** - nevertheless, we added premium to the bot, but did not touch the main functionality, but made ____a new____ and unique function.
 Auto-Bump - promotes your server without any help, 24/7. When you purchase, you also get the "Premium User" role and priority support.
 Find out more in the command: `/premium`.
