@@ -6,5 +6,5 @@
 🇺🇸 Website update - **0.0.4**
 • Updated design.<br>
 • Advanced features and much more are added in the Main Page section. <br>
-• Added the "Mini-FAQ" page
+• Added the "Mini-FAQ" page<br>
 https://www.partnershipbot.tk/
